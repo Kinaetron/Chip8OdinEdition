@@ -21,6 +21,9 @@
 *.swo
 *.swn
 
+# VSCode Files
+.vscode/
+
 # Odin Test Output
 test-output/
 
