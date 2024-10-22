@@ -1,0 +1,31 @@
+# Odin Build Files
+*.o
+*.asm
+*.ll
+*.bc
+*.obj
+*.bin
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.tmp
+*.log
+
+# Odin Temporary Files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Odin Test Output
+test-output/
+
+# Odin Build Directory (if you have one)
+build/
+
+# Odin Package Manager Files (if applicable)
+.odin/
